@@ -1,0 +1,7 @@
+D:\VisualStudio\Polyclinic\Polyclinic\bin\Debug\Polyclinic.exe.config
+D:\VisualStudio\Polyclinic\Polyclinic\bin\Debug\Polyclinic.exe
+D:\VisualStudio\Polyclinic\Polyclinic\bin\Debug\Polyclinic.pdb
+D:\VisualStudio\Polyclinic\Polyclinic\obj\Debug\Polyclinic.csproj.AssemblyReference.cache
+D:\VisualStudio\Polyclinic\Polyclinic\obj\Debug\Polyclinic.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Polyclinic\Polyclinic\obj\Debug\Polyclinic.exe
+D:\VisualStudio\Polyclinic\Polyclinic\obj\Debug\Polyclinic.pdb
